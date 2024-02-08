@@ -1,0 +1,6 @@
+numpy
+igraph
+matplotlib
+cairocffi
+jupyter
+jupyterlab
